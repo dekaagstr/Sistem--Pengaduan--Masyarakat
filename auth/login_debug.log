@@ -1,0 +1,882 @@
+[2025-12-03 05:42:29] Login attempt for username: admin
+[2025-12-03 05:42:29] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:31:05"}
+[2025-12-03 05:42:29] Verifying password...
+[2025-12-03 05:42:29] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[2025-12-03 05:42:29] Password verification failed
+[2025-12-03 05:42:29] Entered password (first 2 chars): ad
+[2025-12-03 05:42:29] Login error: Username atau password salah!
+[2025-12-03 05:43:00] Login attempt for username: admin
+[2025-12-03 05:43:00] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:31:05"}
+[2025-12-03 05:43:00] Verifying password...
+[2025-12-03 05:43:00] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[2025-12-03 05:43:00] Password verification failed
+[2025-12-03 05:43:00] Entered password (first 2 chars): ad
+[2025-12-03 05:43:00] Login error: Username atau password salah!
+[2025-12-03 05:44:33] Login attempt for username: admin
+[2025-12-03 05:44:33] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:44:12"}
+[2025-12-03 05:44:33] Verifying password...
+[2025-12-03 05:44:33] Stored hash: $2y$10$cINv6bmDSanHIm29vIZdEual1B4McjDC4vT0b0Cdz5GoUTeKQqIB6
+[2025-12-03 05:44:33] Password verification successful
+[2025-12-03 05:44:33] Last login updated
+[2025-12-03 05:44:33] Redirecting to: ../admin/dashboard.php
+[2025-12-03 05:44:57] Login attempt for username: petugas
+[2025-12-03 05:44:57] User found: {"id":2,"username":"petugas","nama_lengkap":"Petugas 1","email":"petugas@example.com","no_telp":"081234567891","alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:31:05"}
+[2025-12-03 05:44:57] Verifying password...
+[2025-12-03 05:44:57] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[2025-12-03 05:44:57] Password verification failed
+[2025-12-03 05:44:57] Entered password (first 2 chars): pe
+[2025-12-03 05:44:57] Login error: Username atau password salah!
+[2025-12-03 05:45:56] Login attempt for username: petugas
+[2025-12-03 05:45:56] User found: {"id":2,"username":"petugas","nama_lengkap":"Petugas 1","email":"petugas@example.com","no_telp":"081234567891","alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:31:05"}
+[2025-12-03 05:45:56] Verifying password...
+[2025-12-03 05:45:56] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[2025-12-03 05:45:56] Password verification failed
+[2025-12-03 05:45:56] Entered password (first 2 chars): pe
+[2025-12-03 05:45:56] Login error: Username atau password salah!
+[2025-12-03 05:46:19] Login attempt for username: petugas
+[2025-12-03 05:46:19] User found: {"id":2,"username":"petugas","nama_lengkap":"Petugas 1","email":"petugas@example.com","no_telp":"081234567891","alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:46:06"}
+[2025-12-03 05:46:19] Verifying password...
+[2025-12-03 05:46:19] Stored hash: $2y$10$htMVT7kVlPvCDERlPRfy6OnfV6Lt7jHS4YDy7tDadRPFJYHfmaVlq
+[2025-12-03 05:46:19] Password verification successful
+[2025-12-03 05:46:19] Last login updated
+[2025-12-03 05:46:19] Redirecting to: ../admin/dashboard.php
+[2025-12-03 05:46:33] Login attempt for username: warga
+[2025-12-03 05:46:33] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:46:07"}
+[2025-12-03 05:46:33] Verifying password...
+[2025-12-03 05:46:33] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 05:46:33] Password verification successful
+[2025-12-03 05:46:33] Last login updated
+[2025-12-03 05:46:33] Redirecting to: ../dashboard/index.php
+[2025-12-03 05:51:10] Login attempt for username: warga
+[2025-12-03 05:51:10] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 11:46:33","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:46:33"}
+[2025-12-03 05:51:10] Verifying password...
+[2025-12-03 05:51:10] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 05:51:10] Password verification successful
+[2025-12-03 05:51:10] Last login updated
+[2025-12-03 05:51:10] Redirecting to: ../dashboard/index.php
+[2025-12-03 05:51:22] Login attempt for username: admin
+[2025-12-03 05:51:22] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 11:44:33","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:46:06"}
+[2025-12-03 05:51:22] Verifying password...
+[2025-12-03 05:51:22] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 05:51:22] Password verification successful
+[2025-12-03 05:51:22] Last login updated
+[2025-12-03 05:51:22] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:09:52] Login attempt for username: warga
+[2025-12-03 06:09:52] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 11:51:10","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:51:10"}
+[2025-12-03 06:09:52] Verifying password...
+[2025-12-03 06:09:52] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:09:52] Password verification successful
+[2025-12-03 06:09:52] Last login updated
+[2025-12-03 06:09:52] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:19:34] Login attempt for username: admin
+[2025-12-03 06:19:34] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 11:51:22","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 11:51:22"}
+[2025-12-03 06:19:34] Verifying password...
+[2025-12-03 06:19:34] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:19:34] Password verification successful
+[2025-12-03 06:19:34] Last login updated
+[2025-12-03 06:19:34] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:38:47] Login attempt for username: admin
+[2025-12-03 06:38:47] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:19:34","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:19:34"}
+[2025-12-03 06:38:47] Verifying password...
+[2025-12-03 06:38:47] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:38:47] Password verification successful
+[2025-12-03 06:38:47] Last login updated
+[2025-12-03 06:38:47] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:39:04] Login attempt for username: warga
+[2025-12-03 06:39:04] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:09:52","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:09:52"}
+[2025-12-03 06:39:04] Verifying password...
+[2025-12-03 06:39:04] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:39:04] Password verification successful
+[2025-12-03 06:39:04] Last login updated
+[2025-12-03 06:39:04] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:45:07] Login attempt for username: warga
+[2025-12-03 06:45:07] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:39:04","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:39:04"}
+[2025-12-03 06:45:07] Verifying password...
+[2025-12-03 06:45:07] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:45:08] Password verification successful
+[2025-12-03 06:45:08] Last login updated
+[2025-12-03 06:45:08] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:47:36] Login attempt for username: warga
+[2025-12-03 06:47:36] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:45:08","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:45:08"}
+[2025-12-03 06:47:36] Verifying password...
+[2025-12-03 06:47:36] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:47:36] Password verification successful
+[2025-12-03 06:47:36] Last login updated
+[2025-12-03 06:47:36] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:51:07] Login attempt for username: admin
+[2025-12-03 06:51:07] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:38:47","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:38:47"}
+[2025-12-03 06:51:07] Verifying password...
+[2025-12-03 06:51:07] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:51:07] Password verification successful
+[2025-12-03 06:51:07] Last login updated
+[2025-12-03 06:51:07] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:51:23] Login attempt for username: warga
+[2025-12-03 06:51:23] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:47:36","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:47:36"}
+[2025-12-03 06:51:23] Verifying password...
+[2025-12-03 06:51:23] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:51:23] Password verification successful
+[2025-12-03 06:51:23] Last login updated
+[2025-12-03 06:51:23] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:52:01] Login attempt for username: admin
+[2025-12-03 06:52:01] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:51:07","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:51:07"}
+[2025-12-03 06:52:01] Verifying password...
+[2025-12-03 06:52:01] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:52:01] Password verification successful
+[2025-12-03 06:52:01] Last login updated
+[2025-12-03 06:52:01] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:53:58] Login attempt for username: admin
+[2025-12-03 06:53:58] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:52:01","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:52:01"}
+[2025-12-03 06:53:58] Verifying password...
+[2025-12-03 06:53:58] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:53:58] Password verification successful
+[2025-12-03 06:53:58] Last login updated
+[2025-12-03 06:53:58] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:54:56] Login attempt for username: warga
+[2025-12-03 06:54:56] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:51:23","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:51:23"}
+[2025-12-03 06:54:56] Verifying password...
+[2025-12-03 06:54:56] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:54:56] Password verification successful
+[2025-12-03 06:54:56] Last login updated
+[2025-12-03 06:54:56] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:55:12] Login attempt for username: admin
+[2025-12-03 06:55:12] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:53:58","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:53:58"}
+[2025-12-03 06:55:12] Verifying password...
+[2025-12-03 06:55:12] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:55:12] Password verification successful
+[2025-12-03 06:55:12] Last login updated
+[2025-12-03 06:55:12] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:55:23] Login attempt for username: warga
+[2025-12-03 06:55:23] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:54:56","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:54:56"}
+[2025-12-03 06:55:23] Verifying password...
+[2025-12-03 06:55:23] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:55:23] Password verification successful
+[2025-12-03 06:55:23] Last login updated
+[2025-12-03 06:55:23] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:57:11] Login attempt for username: admin
+[2025-12-03 06:57:11] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:55:12","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:55:12"}
+[2025-12-03 06:57:11] Verifying password...
+[2025-12-03 06:57:11] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:57:11] Password verification successful
+[2025-12-03 06:57:11] Last login updated
+[2025-12-03 06:57:11] Redirecting to: ../admin/dashboard.php
+[2025-12-03 06:59:15] Login attempt for username: warga
+[2025-12-03 06:59:15] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:55:23","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:55:23"}
+[2025-12-03 06:59:15] Verifying password...
+[2025-12-03 06:59:15] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 06:59:16] Password verification successful
+[2025-12-03 06:59:16] Last login updated
+[2025-12-03 06:59:16] Redirecting to: ../dashboard/index.php
+[2025-12-03 06:59:25] Login attempt for username: admin
+[2025-12-03 06:59:25] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:57:11","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:57:11"}
+[2025-12-03 06:59:25] Verifying password...
+[2025-12-03 06:59:25] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 06:59:25] Password verification successful
+[2025-12-03 06:59:25] Last login updated
+[2025-12-03 06:59:25] Redirecting to: ../admin/dashboard.php
+[2025-12-03 07:00:08] Login attempt for username: warga
+[2025-12-03 07:00:08] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:59:16","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:59:16"}
+[2025-12-03 07:00:08] Verifying password...
+[2025-12-03 07:00:08] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 07:00:08] Password verification successful
+[2025-12-03 07:00:08] Last login updated
+[2025-12-03 07:00:08] Redirecting to: ../dashboard/index.php
+[2025-12-03 07:01:18] Login attempt for username: admin
+[2025-12-03 07:01:18] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 12:59:25","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 12:59:25"}
+[2025-12-03 07:01:18] Verifying password...
+[2025-12-03 07:01:18] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 07:01:18] Password verification successful
+[2025-12-03 07:01:18] Last login updated
+[2025-12-03 07:01:18] Redirecting to: ../admin/dashboard.php
+[2025-12-03 07:02:48] Login attempt for username: warga
+[2025-12-03 07:02:48] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:00:08","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:00:08"}
+[2025-12-03 07:02:48] Verifying password...
+[2025-12-03 07:02:48] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 07:02:48] Password verification successful
+[2025-12-03 07:02:48] Last login updated
+[2025-12-03 07:02:48] Redirecting to: ../dashboard/index.php
+[2025-12-03 07:06:16] Login attempt for username: admin
+[2025-12-03 07:06:16] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:01:18","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:01:18"}
+[2025-12-03 07:06:16] Verifying password...
+[2025-12-03 07:06:16] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 07:06:16] Password verification successful
+[2025-12-03 07:06:16] Last login updated
+[2025-12-03 07:06:16] Redirecting to: ../admin/dashboard.php
+[2025-12-03 07:25:25] Login attempt for username: admin
+[2025-12-03 07:25:25] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:06:16","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:06:16"}
+[2025-12-03 07:25:25] Verifying password...
+[2025-12-03 07:25:25] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 07:25:25] Password verification successful
+[2025-12-03 07:25:25] Last login updated
+[2025-12-03 07:25:25] Redirecting to: ../admin/dashboard.php
+[2025-12-03 07:25:51] Login attempt for username: warga
+[2025-12-03 07:25:51] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:02:48","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:02:48"}
+[2025-12-03 07:25:51] Verifying password...
+[2025-12-03 07:25:51] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 07:25:51] Password verification successful
+[2025-12-03 07:25:51] Last login updated
+[2025-12-03 07:25:51] Redirecting to: ../dashboard/index.php
+[2025-12-03 07:26:00] Login attempt for username: admin
+[2025-12-03 07:26:00] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:25:25","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:25:25"}
+[2025-12-03 07:26:00] Verifying password...
+[2025-12-03 07:26:00] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 07:26:00] Password verification successful
+[2025-12-03 07:26:00] Last login updated
+[2025-12-03 07:26:00] Redirecting to: ../admin/dashboard.php
+[2025-12-03 07:29:47] Login attempt for username: warga
+[2025-12-03 07:29:47] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:25:51","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:25:51"}
+[2025-12-03 07:29:47] Verifying password...
+[2025-12-03 07:29:47] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 07:29:47] Password verification successful
+[2025-12-03 07:29:47] Last login updated
+[2025-12-03 07:29:47] Redirecting to: ../dashboard/index.php
+[2025-12-03 07:33:51] Login attempt for username: admin
+[2025-12-03 07:33:51] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:26:00","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:26:00"}
+[2025-12-03 07:33:51] Verifying password...
+[2025-12-03 07:33:51] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 07:33:51] Password verification successful
+[2025-12-03 07:33:51] Last login updated
+[2025-12-03 07:33:51] Redirecting to: ../admin/dashboard.php
+[2025-12-03 08:31:22] Login attempt for username: warga
+[2025-12-03 08:31:22] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:29:47","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:29:47"}
+[2025-12-03 08:31:22] Verifying password...
+[2025-12-03 08:31:22] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 08:31:22] Password verification successful
+[2025-12-03 08:31:22] Last login updated
+[2025-12-03 08:31:22] Redirecting to: ../dashboard/index.php
+[2025-12-03 08:31:36] Login attempt for username: admin
+[2025-12-03 08:31:36] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 13:33:51","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 13:33:51"}
+[2025-12-03 08:31:36] Verifying password...
+[2025-12-03 08:31:36] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 08:31:36] Password verification successful
+[2025-12-03 08:31:36] Last login updated
+[2025-12-03 08:31:36] Redirecting to: ../admin/dashboard.php
+[2025-12-03 08:31:52] Login attempt for username: warga
+[2025-12-03 08:31:52] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 14:31:22","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 14:31:22"}
+[2025-12-03 08:31:52] Verifying password...
+[2025-12-03 08:31:52] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 08:31:52] Password verification successful
+[2025-12-03 08:31:52] Last login updated
+[2025-12-03 08:31:52] Redirecting to: ../dashboard/index.php
+[2025-12-03 08:32:13] Login attempt for username: admin
+[2025-12-03 08:32:13] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 14:31:36","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 14:31:36"}
+[2025-12-03 08:32:13] Verifying password...
+[2025-12-03 08:32:13] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 08:32:13] Password verification successful
+[2025-12-03 08:32:13] Last login updated
+[2025-12-03 08:32:13] Redirecting to: ../admin/dashboard.php
+[2025-12-03 09:24:42] Login attempt for username: warga
+[2025-12-03 09:24:42] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 14:31:52","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 14:31:52"}
+[2025-12-03 09:24:42] Verifying password...
+[2025-12-03 09:24:42] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 09:24:42] Password verification successful
+[2025-12-03 09:24:42] Last login updated
+[2025-12-03 09:24:42] Redirecting to: ../dashboard/index.php
+[2025-12-03 09:24:55] Login attempt for username: admin
+[2025-12-03 09:24:55] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 14:32:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 14:32:13"}
+[2025-12-03 09:24:55] Verifying password...
+[2025-12-03 09:24:55] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 09:24:55] Password verification successful
+[2025-12-03 09:24:55] Last login updated
+[2025-12-03 09:24:55] Redirecting to: ../admin/dashboard.php
+[2025-12-03 09:25:41] Login attempt for username: admin
+[2025-12-03 09:25:41] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 15:24:55","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 15:24:55"}
+[2025-12-03 09:25:41] Verifying password...
+[2025-12-03 09:25:41] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 09:25:41] Password verification successful
+[2025-12-03 09:25:41] Last login updated
+[2025-12-03 09:25:41] Redirecting to: ../admin/dashboard.php
+[2025-12-03 09:26:22] Login attempt for username: admin
+[2025-12-03 09:26:22] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 15:25:41","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 15:25:41"}
+[2025-12-03 09:26:22] Verifying password...
+[2025-12-03 09:26:22] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 09:26:22] Password verification successful
+[2025-12-03 09:26:22] Last login updated
+[2025-12-03 09:26:22] Redirecting to: ../admin/dashboard.php
+[2025-12-03 09:52:58] Login attempt for username: admin
+[2025-12-03 09:52:58] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 15:26:22","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 15:26:22"}
+[2025-12-03 09:52:58] Verifying password...
+[2025-12-03 09:52:58] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 09:52:58] Password verification successful
+[2025-12-03 09:52:58] Last login updated
+[2025-12-03 09:52:58] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:20:44] Login attempt for username: warga
+[2025-12-03 10:20:44] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 15:24:42","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 15:24:42"}
+[2025-12-03 10:20:44] Verifying password...
+[2025-12-03 10:20:44] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 10:20:44] Password verification successful
+[2025-12-03 10:20:44] Last login updated
+[2025-12-03 10:20:44] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:31:36] Login attempt for username: wancoy
+[2025-12-03 10:31:36] User not found: wancoy
+[2025-12-03 10:31:36] Login error: Username atau password salah!
+[2025-12-03 10:31:43] Login attempt for username: wancoy
+[2025-12-03 10:31:43] User not found: wancoy
+[2025-12-03 10:31:43] Login error: Username atau password salah!
+[2025-12-03 10:31:53] Login attempt for username: wancoy
+[2025-12-03 10:31:53] User not found: wancoy
+[2025-12-03 10:31:53] Login error: Username atau password salah!
+[2025-12-03 10:32:26] Login attempt for username: user_7819
+[2025-12-03 10:32:26] User found: {"id":4,"username":"user_7819","nama_lengkap":"wancoy","email":"wancoy@gmail.com","no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 16:31:26","diperbarui_pada":"2025-12-03 16:31:26"}
+[2025-12-03 10:32:26] Verifying password...
+[2025-12-03 10:32:26] Stored hash: $2y$10$hGgKHeeDmzrr81d1HwEaneGA0imp1LVYvAYjBG1F3YVGUkb5DIq4u
+[2025-12-03 10:32:26] Password verification successful
+[2025-12-03 10:32:26] Last login updated
+[2025-12-03 10:32:26] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:34:05] Login attempt for username: admin
+[2025-12-03 10:34:05] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 15:52:58","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 15:52:58"}
+[2025-12-03 10:34:05] Verifying password...
+[2025-12-03 10:34:05] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:34:05] Password verification successful
+[2025-12-03 10:34:05] Last login updated
+[2025-12-03 10:34:05] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:37:41] Login attempt for username: wancoy
+[2025-12-03 10:37:41] User not found: wancoy
+[2025-12-03 10:37:41] Login error: Username atau password salah!
+[2025-12-03 10:39:11] Login attempt for username: ayung
+[2025-12-03 10:39:11] User found: {"id":5,"username":"ayung","nama_lengkap":"nurul","email":null,"no_telp":null,"alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 16:39:04","diperbarui_pada":"2025-12-03 16:39:04"}
+[2025-12-03 10:39:11] Verifying password...
+[2025-12-03 10:39:11] Stored hash: $2y$10$if..alFOyCuvRT51fIlHLeWGczlWrT0JaMkWzeByjbGxSTndl4Yfi
+[2025-12-03 10:39:11] Password verification successful
+[2025-12-03 10:39:11] Last login updated
+[2025-12-03 10:39:11] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:40:03] Login attempt for username: warga
+[2025-12-03 10:40:03] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:20:44","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:20:44"}
+[2025-12-03 10:40:03] Verifying password...
+[2025-12-03 10:40:03] Stored hash: $2y$10$rFrzgfuVmXtVfS09V8cUfOX2UrOVn7ZM8maBt0mhc1SiGnWp1MuAS
+[2025-12-03 10:40:03] Password verification successful
+[2025-12-03 10:40:03] Last login updated
+[2025-12-03 10:40:03] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:40:46] Login attempt for username: nurul
+[2025-12-03 10:40:46] User not found: nurul
+[2025-12-03 10:40:46] Login error: Username atau password salah!
+[2025-12-03 10:43:22] Login attempt for username: admin
+[2025-12-03 10:43:22] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:34:05","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:34:05"}
+[2025-12-03 10:43:22] Verifying password...
+[2025-12-03 10:43:22] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:43:22] Password verification successful
+[2025-12-03 10:43:22] Last login updated
+[2025-12-03 10:43:22] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:45:10] Login attempt for username: tabolabole
+[2025-12-03 10:45:10] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 16:45:01"}
+[2025-12-03 10:45:10] Verifying password...
+[2025-12-03 10:45:10] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-03 10:45:11] Password verification successful
+[2025-12-03 10:45:11] Last login updated
+[2025-12-03 10:45:11] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:46:27] Login attempt for username: admin
+[2025-12-03 10:46:27] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:43:22","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:43:22"}
+[2025-12-03 10:46:27] Verifying password...
+[2025-12-03 10:46:27] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:46:27] Password verification successful
+[2025-12-03 10:46:27] Last login updated
+[2025-12-03 10:46:27] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:51:18] Login attempt for username: admin
+[2025-12-03 10:51:18] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:46:27","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:46:27"}
+[2025-12-03 10:51:18] Verifying password...
+[2025-12-03 10:51:18] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:51:18] Password verification successful
+[2025-12-03 10:51:18] Last login updated
+[2025-12-03 10:51:18] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:52:45] Login attempt for username: admin
+[2025-12-03 10:52:45] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:51:18","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:51:18"}
+[2025-12-03 10:52:45] Verifying password...
+[2025-12-03 10:52:45] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:52:45] Password verification successful
+[2025-12-03 10:52:45] Last login updated
+[2025-12-03 10:52:45] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:54:16] Login attempt for username: admin
+[2025-12-03 10:54:16] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:52:45","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:52:45"}
+[2025-12-03 10:54:16] Verifying password...
+[2025-12-03 10:54:16] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:54:17] Password verification successful
+[2025-12-03 10:54:17] Last login updated
+[2025-12-03 10:54:17] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:54:32] Login attempt for username: wancoy
+[2025-12-03 10:54:32] User not found: wancoy
+[2025-12-03 10:54:32] Login error: Username atau password salah!
+[2025-12-03 10:54:49] Login attempt for username: ayung
+[2025-12-03 10:54:49] User found: {"id":5,"username":"ayung","nama_lengkap":"nurul","email":null,"no_telp":null,"alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:39:11","dibuat_pada":"2025-12-03 16:39:04","diperbarui_pada":"2025-12-03 16:39:11"}
+[2025-12-03 10:54:49] Verifying password...
+[2025-12-03 10:54:49] Stored hash: $2y$10$if..alFOyCuvRT51fIlHLeWGczlWrT0JaMkWzeByjbGxSTndl4Yfi
+[2025-12-03 10:54:49] Password verification successful
+[2025-12-03 10:54:49] Last login updated
+[2025-12-03 10:54:49] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:55:23] Login attempt for username: admin
+[2025-12-03 10:55:23] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:54:17","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:54:17"}
+[2025-12-03 10:55:23] Verifying password...
+[2025-12-03 10:55:23] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:55:23] Password verification successful
+[2025-12-03 10:55:23] Last login updated
+[2025-12-03 10:55:23] Redirecting to: ../admin/dashboard.php
+[2025-12-03 10:59:13] Login attempt for username: fakri
+[2025-12-03 10:59:13] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 16:59:03"}
+[2025-12-03 10:59:13] Verifying password...
+[2025-12-03 10:59:13] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-03 10:59:13] Password verification successful
+[2025-12-03 10:59:13] Last login updated
+[2025-12-03 10:59:13] Redirecting to: ../dashboard/index.php
+[2025-12-03 10:59:25] Login attempt for username: admin
+[2025-12-03 10:59:25] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:55:23","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:55:23"}
+[2025-12-03 10:59:25] Verifying password...
+[2025-12-03 10:59:25] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 10:59:26] Password verification successful
+[2025-12-03 10:59:26] Last login updated
+[2025-12-03 10:59:26] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:07:46] Login attempt for username: fakri
+[2025-12-03 11:07:46] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:59:13","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 16:59:13"}
+[2025-12-03 11:07:46] Verifying password...
+[2025-12-03 11:07:46] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-03 11:07:46] Password verification successful
+[2025-12-03 11:07:46] Last login updated
+[2025-12-03 11:07:46] Redirecting to: ../dashboard/index.php
+[2025-12-03 11:08:07] Login attempt for username: tabolabole
+[2025-12-03 11:08:07] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"petugas","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:45:11","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 16:45:11"}
+[2025-12-03 11:08:07] Verifying password...
+[2025-12-03 11:08:07] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-03 11:08:07] Password verification successful
+[2025-12-03 11:08:07] Last login updated
+[2025-12-03 11:08:07] Redirecting to: ../dashboard/index.php
+[2025-12-03 11:09:02] Login attempt for username: admin
+[2025-12-03 11:09:02] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:59:26","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 16:59:26"}
+[2025-12-03 11:09:02] Verifying password...
+[2025-12-03 11:09:02] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 11:09:02] Password verification successful
+[2025-12-03 11:09:02] Last login updated
+[2025-12-03 11:09:02] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:14:03] Login attempt for username: fakri
+[2025-12-03 11:14:03] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:14:04] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:14:10] Login attempt for username: admin
+[2025-12-03 11:14:10] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:09:02","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:09:02"}
+[2025-12-03 11:14:10] Verifying password...
+[2025-12-03 11:14:10] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 11:14:10] Password verification successful
+[2025-12-03 11:14:10] Last login updated
+[2025-12-03 11:14:10] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:14:26] Login attempt for username: fakri
+[2025-12-03 11:14:26] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:14:26] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:14:32] Login attempt for username: fakri
+[2025-12-03 11:14:32] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:14:32] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:14:41] Login attempt for username: tabolabole
+[2025-12-03 11:14:41] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:08:07","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 17:09:53"}
+[2025-12-03 11:14:41] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:14:46] Login attempt for username: admin
+[2025-12-03 11:14:46] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:14:10","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:14:10"}
+[2025-12-03 11:14:46] Verifying password...
+[2025-12-03 11:14:46] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 11:14:46] Password verification successful
+[2025-12-03 11:14:46] Last login updated
+[2025-12-03 11:14:46] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:19:15] Login attempt for username: fakri
+[2025-12-03 11:19:15] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:19:15] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:19:21] Login attempt for username: admin
+[2025-12-03 11:19:21] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:14:46","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:14:46"}
+[2025-12-03 11:19:21] Verifying password...
+[2025-12-03 11:19:21] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 11:19:21] Password verification successful
+[2025-12-03 11:19:21] Last login updated
+[2025-12-03 11:19:21] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:20:00] Login attempt for username: ayung
+[2025-12-03 11:20:00] User found: {"id":5,"username":"ayung","nama_lengkap":"nurul","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 16:54:49","dibuat_pada":"2025-12-03 16:39:04","diperbarui_pada":"2025-12-03 17:17:33"}
+[2025-12-03 11:20:00] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:20:08] Login attempt for username: warga
+[2025-12-03 11:20:08] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 16:40:03","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:18:00"}
+[2025-12-03 11:20:08] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:20:13] Login attempt for username: admin
+[2025-12-03 11:20:13] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:19:21","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:19:21"}
+[2025-12-03 11:20:13] Verifying password...
+[2025-12-03 11:20:13] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 11:20:13] Password verification successful
+[2025-12-03 11:20:13] Last login updated
+[2025-12-03 11:20:13] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:22:43] Login attempt for username: fakri
+[2025-12-03 11:22:43] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:22:43] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:22:49] Login attempt for username: fakri
+[2025-12-03 11:22:49] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:22:49] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:23:48] Login attempt for username: admin
+[2025-12-03 11:23:48] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:20:13"}
+[2025-12-03 11:23:48] User status: aktif
+[2025-12-03 11:23:48] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:23:54] Login attempt for username: admin
+[2025-12-03 11:23:54] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:20:13"}
+[2025-12-03 11:23:54] User status: aktif
+[2025-12-03 11:23:54] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:24:00] Login attempt for username: admin
+[2025-12-03 11:24:00] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:20:13"}
+[2025-12-03 11:24:00] User status: aktif
+[2025-12-03 11:24:00] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:24:10] Login attempt for username: admin
+[2025-12-03 11:24:10] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:20:13"}
+[2025-12-03 11:24:10] User status: aktif
+[2025-12-03 11:24:10] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:24:22] Login attempt for username: admin
+[2025-12-03 11:24:22] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:20:13"}
+[2025-12-03 11:24:22] User status: aktif
+[2025-12-03 11:24:22] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:24:28] Login attempt for username: admin1
+[2025-12-03 11:24:28] User not found: admin1
+[2025-12-03 11:24:28] Login error: Username atau password salah!
+[2025-12-03 11:24:35] Login attempt for username: admin
+[2025-12-03 11:24:35] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:20:13"}
+[2025-12-03 11:24:35] User status: aktif
+[2025-12-03 11:24:35] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:24:41] Login attempt for username: fakri
+[2025-12-03 11:24:41] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49"}
+[2025-12-03 11:24:41] User status: 
+[2025-12-03 11:24:41] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:25:56] Login attempt for username: admin
+[2025-12-03 11:25:56] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:25:56] User status: 
+[2025-12-03 11:25:56] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:26:01] Login attempt for username: admin
+[2025-12-03 11:26:01] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:26:01] User status: 
+[2025-12-03 11:26:01] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:26:23] Login attempt for username: admin
+[2025-12-03 11:26:23] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:26:23] User status: 
+[2025-12-03 11:26:23] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:26:29] Login attempt for username: admin
+[2025-12-03 11:26:29] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:26:29] User status: 
+[2025-12-03 11:26:29] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:27:12] Login attempt for username: admin
+[2025-12-03 11:27:12] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:27:12] User status: 
+[2025-12-03 11:27:12] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:27:23] Login attempt for username: admin
+[2025-12-03 11:27:23] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:27:23] User status: 
+[2025-12-03 11:27:23] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:27:38] Login attempt for username: admin
+[2025-12-03 11:27:38] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:27:38] User status: 
+[2025-12-03 11:27:38] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:28:11] Login attempt for username: admin
+[2025-12-03 11:28:11] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:25:30"}
+[2025-12-03 11:28:11] User status: 
+[2025-12-03 11:28:11] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:28:45] Login attempt for username: admin
+[2025-12-03 11:28:45] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:28:45] User status: aktif
+[2025-12-03 11:28:45] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:28:52] Login attempt for username: admin
+[2025-12-03 11:28:52] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:28:52] User status: aktif
+[2025-12-03 11:28:52] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:29:29] Login attempt for username: warga
+[2025-12-03 11:29:29] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:40:03","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:29:15"}
+[2025-12-03 11:29:29] User status: aktif
+[2025-12-03 11:29:29] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:29:40] Login attempt for username: warga
+[2025-12-03 11:29:40] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:40:03","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:29:15"}
+[2025-12-03 11:29:40] User status: aktif
+[2025-12-03 11:29:40] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:32:56] Login attempt for username: admin
+[2025-12-03 11:32:56] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:32:56] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:32:56] Login failed - Account not active. User ID: 1
+[2025-12-03 11:32:56] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:33:03] Login attempt for username: warga
+[2025-12-03 11:33:03] User found: {"id":3,"username":"warga","nama_lengkap":"Warga 1","email":"warga@example.com","no_telp":"081234567892","alamat":"Jl. Contoh No. 123","level":"warga","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 16:40:03","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:29:15"}
+[2025-12-03 11:33:03] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:33:03] Login failed - Account not active. User ID: 3
+[2025-12-03 11:33:03] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:33:13] Login attempt for username: asdf
+[2025-12-03 11:33:13] User not found: asdf
+[2025-12-03 11:33:13] Login error: Username atau password salah!
+[2025-12-03 11:34:07] Login attempt for username: admin
+[2025-12-03 11:34:07] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:34:07] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:34:07] Login failed - Account not active. User ID: 1
+[2025-12-03 11:34:07] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:36:29] Login attempt for username: admin
+[2025-12-03 11:36:29] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:36:29] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:36:29] Login failed - Account not active. User ID: 1
+[2025-12-03 11:36:29] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:38:29] Login attempt for username: didi
+[2025-12-03 11:38:29] User found: {"id":8,"username":"didi","nama_lengkap":"didi","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 17:38:22","diperbarui_pada":"2025-12-03 17:38:22"}
+[2025-12-03 11:38:29] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:38:29] Login failed - Account not active. User ID: 8
+[2025-12-03 11:38:29] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:38:52] Login attempt for username: admin
+[2025-12-03 11:38:52] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:38:52] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:38:52] Login failed - Account not active. User ID: 1
+[2025-12-03 11:38:52] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:39:08] Login attempt for username: didi
+[2025-12-03 11:39:08] User found: {"id":8,"username":"didi","nama_lengkap":"didi","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","status":"aktif","terakhir_login":null,"dibuat_pada":"2025-12-03 17:38:22","diperbarui_pada":"2025-12-03 17:38:22"}
+[2025-12-03 11:39:08] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:39:08] Login failed - Account not active. User ID: 8
+[2025-12-03 11:39:08] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:42:17] Login attempt for username: admin
+[2025-12-03 11:42:17] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","status":"aktif","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31"}
+[2025-12-03 11:42:17] User status check - Raw status: 'aktif', Normalized: 'aktif'
+[2025-12-03 11:42:17] Login failed - Account not active. User ID: 1
+[2025-12-03 11:42:17] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:43:11] Login attempt for username: admin
+[2025-12-03 11:43:11] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-03 17:20:13","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:28:31","status":"active"}
+[2025-12-03 11:43:11] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-03 11:43:11] Account status check passed for user ID: 1
+[2025-12-03 11:43:11] Verifying password...
+[2025-12-03 11:43:11] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-03 11:43:11] Password verification successful
+[2025-12-03 11:43:11] Last login updated
+[2025-12-03 11:43:11] Redirecting to: ../admin/dashboard.php
+[2025-12-03 11:43:46] Login attempt for username: didi
+[2025-12-03 11:43:46] User found: {"id":8,"username":"didi","nama_lengkap":"didi","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":null,"dibuat_pada":"2025-12-03 17:38:22","diperbarui_pada":"2025-12-03 17:43:35","status":"inactive"}
+[2025-12-03 11:43:46] User status check - Raw status: 'inactive', Normalized: 'inactive'
+[2025-12-03 11:43:46] Login failed - Account not active. User ID: 8
+[2025-12-03 11:43:46] Login error: Akun Anda tidak aktif. Silakan hubungi administrator.
+[2025-12-03 11:43:56] Login attempt for username: tabolabole
+[2025-12-03 11:43:56] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-03 17:08:07","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 17:09:53","status":"active"}
+[2025-12-03 11:43:56] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-03 11:43:56] Account status check passed for user ID: 6
+[2025-12-03 11:43:56] Verifying password...
+[2025-12-03 11:43:56] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-03 11:43:56] Password verification failed
+[2025-12-03 11:43:56] Entered password (first 2 chars): ta
+[2025-12-03 11:43:56] Login error: Username atau password salah!
+[2025-12-03 11:44:13] Login attempt for username: tabolebole
+[2025-12-03 11:44:13] User not found: tabolebole
+[2025-12-03 11:44:13] Login error: Username atau password salah!
+[2025-12-03 11:44:24] Login attempt for username: tabolabole
+[2025-12-03 11:44:24] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-03 17:08:07","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 17:09:53","status":"active"}
+[2025-12-03 11:44:24] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-03 11:44:24] Account status check passed for user ID: 6
+[2025-12-03 11:44:24] Verifying password...
+[2025-12-03 11:44:24] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-03 11:44:24] Password verification failed
+[2025-12-03 11:44:24] Entered password (first 2 chars): ta
+[2025-12-03 11:44:24] Login error: Username atau password salah!
+[2025-12-03 11:44:34] Login attempt for username: tabolabole
+[2025-12-03 11:44:34] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-03 17:08:07","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 17:09:53","status":"active"}
+[2025-12-03 11:44:34] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-03 11:44:34] Account status check passed for user ID: 6
+[2025-12-03 11:44:34] Verifying password...
+[2025-12-03 11:44:34] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-03 11:44:34] Password verification successful
+[2025-12-03 11:44:34] Last login updated
+[2025-12-03 11:44:34] Redirecting to: ../dashboard/index.php
+[2025-12-09 08:21:41] Login attempt for username: tabolabole
+[2025-12-09 08:21:41] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-03 17:44:34","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-03 17:44:34","status":"active"}
+[2025-12-09 08:21:41] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-09 08:21:41] Account status check passed for user ID: 6
+[2025-12-09 08:21:41] Verifying password...
+[2025-12-09 08:21:41] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-09 08:21:41] Password verification successful
+[2025-12-09 08:21:41] Last login updated
+[2025-12-09 08:21:41] Redirecting to: ../dashboard/index.php
+[2025-12-09 08:22:14] Login attempt for username: admin
+[2025-12-09 08:22:14] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-03 17:43:11","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:43:11","status":"active"}
+[2025-12-09 08:22:14] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-09 08:22:14] Account status check passed for user ID: 1
+[2025-12-09 08:22:14] Verifying password...
+[2025-12-09 08:22:14] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-09 08:22:15] Password verification failed
+[2025-12-09 08:22:15] Entered password (first 2 chars): ad
+[2025-12-09 08:22:15] Login error: Username atau password salah!
+[2025-12-09 08:22:23] Login attempt for username: admin
+[2025-12-09 08:22:23] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-03 17:43:11","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-03 17:43:11","status":"active"}
+[2025-12-09 08:22:23] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-09 08:22:23] Account status check passed for user ID: 1
+[2025-12-09 08:22:23] Verifying password...
+[2025-12-09 08:22:23] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-09 08:22:23] Password verification successful
+[2025-12-09 08:22:23] Last login updated
+[2025-12-09 08:22:23] Redirecting to: ../admin/dashboard.php
+[2025-12-09 08:23:39] Login attempt for username: tabolabole
+[2025-12-09 08:23:39] User found: {"id":6,"username":"tabolabole","nama_lengkap":"dimas","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-09 14:21:41","dibuat_pada":"2025-12-03 16:45:01","diperbarui_pada":"2025-12-09 14:21:41","status":"active"}
+[2025-12-09 08:23:39] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-09 08:23:39] Account status check passed for user ID: 6
+[2025-12-09 08:23:39] Verifying password...
+[2025-12-09 08:23:39] Stored hash: $2y$10$jZWaoJIRyIqWBBSjV8bkSurBFsItJB355ZozHH5PMOFj4xLd5nUjm
+[2025-12-09 08:23:39] Password verification successful
+[2025-12-09 08:23:39] Last login updated
+[2025-12-09 08:23:39] Redirecting to: ../dashboard/index.php
+[2025-12-15 06:39:54] Login attempt for username: admin
+[2025-12-15 06:39:54] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-09 14:22:23","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-09 14:22:23","status":"active"}
+[2025-12-15 06:39:54] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-15 06:39:54] Account status check passed for user ID: 1
+[2025-12-15 06:39:54] Verifying password...
+[2025-12-15 06:39:54] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-15 06:39:54] Password verification successful
+[2025-12-15 06:39:54] Last login updated
+[2025-12-15 06:39:54] Redirecting to: ../admin/dashboard.php
+[2025-12-15 06:49:12] Login attempt for username: fakri
+[2025-12-15 06:49:12] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-03 17:07:46","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-03 17:09:49","status":"active"}
+[2025-12-15 06:49:12] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-15 06:49:12] Account status check passed for user ID: 7
+[2025-12-15 06:49:12] Verifying password...
+[2025-12-15 06:49:12] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-15 06:49:12] Password verification successful
+[2025-12-15 06:49:12] Last login updated
+[2025-12-15 06:49:12] Redirecting to: ../dashboard/index.php
+[2025-12-15 06:50:49] Login attempt for username: admin
+[2025-12-15 06:50:49] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-15 12:39:54","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-15 12:39:54","status":"active"}
+[2025-12-15 06:50:49] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-15 06:50:49] Account status check passed for user ID: 1
+[2025-12-15 06:50:49] Verifying password...
+[2025-12-15 06:50:49] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-15 06:50:49] Password verification successful
+[2025-12-15 06:50:49] Last login updated
+[2025-12-15 06:50:49] Redirecting to: ../admin/dashboard.php
+[2025-12-15 07:43:42] Login attempt for username: fakri
+[2025-12-15 07:43:42] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-15 12:49:12","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-15 12:49:12","status":"active"}
+[2025-12-15 07:43:42] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-15 07:43:42] Account status check passed for user ID: 7
+[2025-12-15 07:43:42] Verifying password...
+[2025-12-15 07:43:42] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-15 07:43:42] Password verification successful
+[2025-12-15 07:43:42] Last login updated
+[2025-12-15 07:43:42] Redirecting to: ../dashboard/index.php
+[2025-12-15 08:47:42] Login attempt for username: warga
+[2025-12-15 08:47:42] User not found: warga
+[2025-12-15 08:47:42] Login error: Username atau password salah!
+[2025-12-15 08:47:51] Login attempt for username: warga
+[2025-12-15 08:47:51] User not found: warga
+[2025-12-15 08:47:51] Login error: Username atau password salah!
+[2025-12-15 08:47:59] Login attempt for username: warga
+[2025-12-15 08:47:59] User not found: warga
+[2025-12-15 08:47:59] Login error: Username atau password salah!
+[2025-12-15 08:48:10] Login attempt for username: fakri
+[2025-12-15 08:48:10] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-15 13:43:42","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-15 13:43:42","status":"active"}
+[2025-12-15 08:48:10] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-15 08:48:10] Account status check passed for user ID: 7
+[2025-12-15 08:48:10] Verifying password...
+[2025-12-15 08:48:10] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-15 08:48:10] Password verification successful
+[2025-12-15 08:48:10] Last login updated
+[2025-12-15 08:48:10] Redirecting to: ../dashboard/index.php
+[2025-12-16 03:16:44] Login attempt for username: fakri
+[2025-12-16 03:16:44] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-15 14:48:10","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-15 14:48:10","status":"active"}
+[2025-12-16 03:16:44] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:16:44] Account status check passed for user ID: 7
+[2025-12-16 03:16:44] Verifying password...
+[2025-12-16 03:16:44] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 03:16:44] Password verification failed
+[2025-12-16 03:16:44] Entered password (first 2 chars): fa
+[2025-12-16 03:16:44] Login error: Username atau password salah!
+[2025-12-16 03:16:50] Login attempt for username: fakri
+[2025-12-16 03:16:50] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-15 14:48:10","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-15 14:48:10","status":"active"}
+[2025-12-16 03:16:50] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:16:50] Account status check passed for user ID: 7
+[2025-12-16 03:16:50] Verifying password...
+[2025-12-16 03:16:50] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 03:16:50] Password verification failed
+[2025-12-16 03:16:50] Entered password (first 2 chars): fa
+[2025-12-16 03:16:50] Login error: Username atau password salah!
+[2025-12-16 03:16:55] Login attempt for username: fakri
+[2025-12-16 03:16:55] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-15 14:48:10","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-15 14:48:10","status":"active"}
+[2025-12-16 03:16:55] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:16:55] Account status check passed for user ID: 7
+[2025-12-16 03:16:55] Verifying password...
+[2025-12-16 03:16:55] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 03:16:55] Password verification successful
+[2025-12-16 03:16:55] Last login updated
+[2025-12-16 03:16:55] Redirecting to: ../dashboard/index.php
+[2025-12-16 03:17:17] Login attempt for username: admin
+[2025-12-16 03:17:17] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-15 12:50:49","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-15 12:50:49","status":"active"}
+[2025-12-16 03:17:17] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:17:17] Account status check passed for user ID: 1
+[2025-12-16 03:17:17] Verifying password...
+[2025-12-16 03:17:17] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 03:17:17] Password verification successful
+[2025-12-16 03:17:17] Last login updated
+[2025-12-16 03:17:17] Redirecting to: ../admin/dashboard.php
+[2025-12-16 03:18:28] Login attempt for username: fakri
+[2025-12-16 03:18:28] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-16 09:16:55","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-16 09:16:55","status":"active"}
+[2025-12-16 03:18:28] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:18:28] Account status check passed for user ID: 7
+[2025-12-16 03:18:28] Verifying password...
+[2025-12-16 03:18:28] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 03:18:28] Password verification successful
+[2025-12-16 03:18:28] Last login updated
+[2025-12-16 03:18:28] Redirecting to: ../dashboard/index.php
+[2025-12-16 03:37:40] Login attempt for username: fakri
+[2025-12-16 03:37:40] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-16 09:18:28","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-16 09:18:28","status":"active"}
+[2025-12-16 03:37:40] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:37:40] Account status check passed for user ID: 7
+[2025-12-16 03:37:40] Verifying password...
+[2025-12-16 03:37:40] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 03:37:40] Password verification successful
+[2025-12-16 03:37:40] Last login updated
+[2025-12-16 03:37:40] Redirecting to: ../dashboard/index.php
+[2025-12-16 03:37:45] Login attempt for username: admin
+[2025-12-16 03:37:45] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-16 09:17:17","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-16 09:17:17","status":"active"}
+[2025-12-16 03:37:45] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:37:45] Account status check passed for user ID: 1
+[2025-12-16 03:37:45] Verifying password...
+[2025-12-16 03:37:45] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 03:37:45] Password verification failed
+[2025-12-16 03:37:45] Entered password (first 2 chars): ad
+[2025-12-16 03:37:45] Login error: Username atau password salah!
+[2025-12-16 03:37:49] Login attempt for username: admin
+[2025-12-16 03:37:49] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-16 09:17:17","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-16 09:17:17","status":"active"}
+[2025-12-16 03:37:49] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:37:49] Account status check passed for user ID: 1
+[2025-12-16 03:37:49] Verifying password...
+[2025-12-16 03:37:49] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 03:37:49] Password verification successful
+[2025-12-16 03:37:49] Last login updated
+[2025-12-16 03:37:49] Redirecting to: ../admin/dashboard.php
+[2025-12-16 03:39:20] Login attempt for username: admin
+[2025-12-16 03:39:20] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-16 09:37:49","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-16 09:37:49","status":"active"}
+[2025-12-16 03:39:20] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:39:20] Account status check passed for user ID: 1
+[2025-12-16 03:39:20] Verifying password...
+[2025-12-16 03:39:20] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 03:39:20] Password verification successful
+[2025-12-16 03:39:20] Last login updated
+[2025-12-16 03:39:20] Redirecting to: ../admin/dashboard.php
+[2025-12-16 03:42:00] Login attempt for username: fakri
+[2025-12-16 03:42:00] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-16 09:37:40","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-16 09:37:40","status":"active"}
+[2025-12-16 03:42:00] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:42:00] Account status check passed for user ID: 7
+[2025-12-16 03:42:00] Verifying password...
+[2025-12-16 03:42:00] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 03:42:00] Password verification successful
+[2025-12-16 03:42:00] Last login updated
+[2025-12-16 03:42:00] Redirecting to: ../dashboard/index.php
+[2025-12-16 03:43:18] Login attempt for username: admin
+[2025-12-16 03:43:18] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-16 09:39:20","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-16 09:39:20","status":"active"}
+[2025-12-16 03:43:18] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 03:43:18] Account status check passed for user ID: 1
+[2025-12-16 03:43:18] Verifying password...
+[2025-12-16 03:43:18] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 03:43:18] Password verification successful
+[2025-12-16 03:43:18] Last login updated
+[2025-12-16 03:43:18] Redirecting to: ../admin/dashboard.php
+[2025-12-16 05:41:14] Login attempt for username: admin
+[2025-12-16 05:41:14] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-16 09:43:18","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-16 09:43:18","status":"active"}
+[2025-12-16 05:41:14] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 05:41:14] Account status check passed for user ID: 1
+[2025-12-16 05:41:14] Verifying password...
+[2025-12-16 05:41:14] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 05:41:14] Password verification successful
+[2025-12-16 05:41:14] Last login updated
+[2025-12-16 05:41:14] Redirecting to: ../admin/dashboard.php
+[2025-12-16 05:42:48] Login attempt for username: fakri
+[2025-12-16 05:42:48] User found: {"id":7,"username":"fakri","nama_lengkap":"fakri","email":null,"no_telp":null,"alamat":null,"level":"warga","foto":"default.png","terakhir_login":"2025-12-16 09:42:00","dibuat_pada":"2025-12-03 16:59:03","diperbarui_pada":"2025-12-16 09:42:00","status":"active"}
+[2025-12-16 05:42:48] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 05:42:48] Account status check passed for user ID: 7
+[2025-12-16 05:42:48] Verifying password...
+[2025-12-16 05:42:48] Stored hash: $2y$10$onhHq6BV9TyJeK9QKWPCWu3MLHkVFKVL2GVtcxDGD7LAU9wfARVe.
+[2025-12-16 05:42:48] Password verification successful
+[2025-12-16 05:42:48] Last login updated
+[2025-12-16 05:42:48] Redirecting to: ../dashboard/index.php
+[2025-12-16 05:45:38] Login attempt for username: admin
+[2025-12-16 05:45:38] User found: {"id":1,"username":"admin","nama_lengkap":"Administrator","email":"admin@example.com","no_telp":"081234567890","alamat":null,"level":"admin","foto":"default.png","terakhir_login":"2025-12-16 11:41:14","dibuat_pada":"2025-12-03 11:31:05","diperbarui_pada":"2025-12-16 11:41:14","status":"active"}
+[2025-12-16 05:45:38] User status check - Raw status: 'active', Normalized: 'active'
+[2025-12-16 05:45:38] Account status check passed for user ID: 1
+[2025-12-16 05:45:38] Verifying password...
+[2025-12-16 05:45:38] Stored hash: $2y$10$51Ewn4xYEmmv5aQP.nR2ceIwUL9qcuVc5VYOTpvCzV.1x1NB6/t7y
+[2025-12-16 05:45:38] Password verification successful
+[2025-12-16 05:45:38] Last login updated
+[2025-12-16 05:45:38] Redirecting to: ../admin/dashboard.php
